@@ -8,7 +8,11 @@
 비주얼스튜디오 코드(Visual Studio Code)
 
 [ 설정 ] - [ 사용자 코드 조각 ] 혹은 [ 설정 ] - [ settings.json ] 에
+
+
 붙여넣기만 하면 되는 커스텀 json 파일입니다.
+
+
 
 자세한 설명은 [여기서](https://blog.naver.com/powersub1101/223141479498) 확인할 수 있습니다.
 
